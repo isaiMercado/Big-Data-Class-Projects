@@ -3,3 +3,5 @@ Netflix competition dataset sample and format
 ![](https://github.com/isaiMercado/Big-Data-Class-Projects/blob/master/Lab01_Hadoop/Images/netflix_dataset.png)
 </br>
 Image taken from SlidePlayer
+</br>
+http://slideplayer.com/slide/4969876/
